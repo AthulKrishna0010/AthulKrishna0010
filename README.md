@@ -1,8 +1,8 @@
 
 - 👋 Hi, I’m @AthulKrishna0010
 - 👀 I’m interested in creating interactive websites for fun
-- 🌱 I’m currently learning front-end development
-- 🌱 I’m also learning back-end development
+- ✅ I’m specialized in front-end development
+- 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on projects involving UI for websites
 - 📫 How to reach me - krishhhnnaa007@gmail.com
 
