@@ -1,7 +1,24 @@
-Hi, I'm Athul 👋
+**Hi, I'm Athul 👋**
   
-  ![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AthulKrishna0010&show_icons=true&bg_color=00000000) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna0010&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-SKILLS
+  ![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AthulKrishna0010&show_icons=true&bg_color=00000000) 
+  (https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna0010&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+- 👀 Full Stack Developer.  
+- 🌱 Learning ReactJS, NodeJs along with MongoDB, Docker and Kubernetes.
+  
+*SKILLS*
+
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,python,mysql,mongodb)](https://skillicons.dev)
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,jest,docker,kubernetes,aws,postman)](https://skillicons.dev)
+
+### Environments
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows,linux)](https://skillicons.dev)
+
+### Workflows
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ![Screenshot 2024-06-13 211545](https://github.com/AthulKrishna0010/AthulKrishna0010/assets/164323147/b103b1b6-578a-4e51-a7f9-5cd2e0c641f8)
 <!---
