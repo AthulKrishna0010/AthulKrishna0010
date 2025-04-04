@@ -1,7 +1,7 @@
 **Hi, I'm Athul 👋**
   
   ![Athul's GitHub stats](https://github-readme-stats.vercel.app/api?username=AthulKrishna0010&show_icons=true&bg_color=00000000) 
-  (https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna0010&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+  ![Athul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna0010&layout=compact&theme=gotham)]
 
 - 👀 Full Stack Developer.  
 - 🌱 Learning ReactJS, NodeJs along with MongoDB, Docker and Kubernetes.
