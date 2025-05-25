@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,java,cpp,python,mysql,mongodb)](https://skillicons.dev)
 
 ### Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap,jest,docker,kubernetes,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,express,tailwind,bootstrap,jest,docker,kubernetes,aws,postman)](https://skillicons.dev)
 
 ### Environments
 [![My Skills](https://skillicons.dev/icons?i=vscode,windows,linux)](https://skillicons.dev)
