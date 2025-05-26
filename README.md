@@ -4,7 +4,7 @@
   ![Athul's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AthulKrishna0010&layout=compact&theme=gotham)
 
 - 👀 Full Stack Developer.  
-- 🌱 Learning ReactJS, NodeJs along with MongoDB, Docker and Kubernetes.
+- 🌱 Learning ReactJS, NodeJs, SpringBoot along with MongoDB, Docker and Kubernetes.
   
 ## Skills
 
